@@ -3,6 +3,7 @@ __pycache__/
 *.class
 *.so
 .Python
+.vscode/
 env/
 venv/
 .venv/
